@@ -2,11 +2,9 @@ tags:
   tag-1:
     en: tag 1
     fr: marqueur 1
-    icon: class-icon1
   tag-2:
     en: tag 2
     fr: marqueur 2
-    icon: class-icon2
   aa:
     en: AAA
     fr: BBBB
