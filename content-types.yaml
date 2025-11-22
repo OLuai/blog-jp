@@ -2,3 +2,6 @@ contentTypes:
   recherche:
     en: Research
     fr: Recherche
+  mon-type-de-contenu:
+    en: Researche Article
+    fr: Article de recherce
