@@ -1,1 +1,4 @@
-journals: {}
+journals:
+  science-magazine:
+    en: mag
+    fr: boff
